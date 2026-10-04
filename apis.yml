@@ -51,9 +51,9 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/buildots.p
 tags:
   - Construction Tech
   - ConTech
-  - Computer-Vision
+  - Computer Vision
   - Artificial Intelligence
-  - Machine-Learning
+  - Machine Learning
   - Construction Progress
   - 360 Camera
   - BIM
@@ -84,6 +84,8 @@ tags_raw:
   - Genda
   - Tel Aviv
   - Israel
+  - Computer-Vision
+  - Machine-Learning
 url: https://raw.githubusercontent.com/api-evangelist/buildots/refs/heads/main/apis.yml
 created: '2026-05-23'
 modified: '2026-05-25'
