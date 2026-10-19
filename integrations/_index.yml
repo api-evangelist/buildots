@@ -16,3 +16,16 @@
   relationship: platform-app
   status: not-a-workflow
   arazzo: null
+- slug: buildots-autodesk-own
+  label: Autodesk (own)
+  partner: autodesk
+  partner_name: Autodesk (own)
+  category: BIM360
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://marketplace.autodesk.com/apps/5d0214e5-9653-4142-98ff-e3329a6b07ad
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
